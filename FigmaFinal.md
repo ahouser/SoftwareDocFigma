@@ -2,7 +2,7 @@
 
 Figma is the first interface design tool based in the browser, making it easier for teams to create software. Design, prototype, and gather feedback all in one place with Figma.
 
-Because Figma is all in the cloudu, never uploada, download, or worry about versions again. Present and prototype in the same tool where you design for one single source of truth for design files.
+Because Figma is all in the cloud, never upload, download, or worry about versions again. Present and prototype in the same tool where you design for one single source of truth for design files.
 
 ## Introduction
 
@@ -22,7 +22,7 @@ We've compiled a (not-so) small list of all the powerful things Figma is capable
 
 *Form the Experience Together*
 
-Create better UX design by suportin colaborat across the desine process.
+Create better UX design by supporting collaboration across the desine process.
 
 FIGMA helps you:
         
@@ -32,7 +32,7 @@ FIGMA helps you:
         
  - Easily share wireframes and collect feedback in real-time or async.
  
-    → Share the wreframe with anyone via a single, live URL that works on any platform.
+    → Share the wireframe with anyone via a single, live URL that works on any platform.
   
  - Easily keep everyone up to date on the latest wireframe.
     
